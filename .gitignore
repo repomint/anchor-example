@@ -1,0 +1,4 @@
+.vagrant
+
+# ignored resources dirs
+instance
